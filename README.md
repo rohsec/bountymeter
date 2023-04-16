@@ -1,3 +1,5 @@
+![bmbanner](https://user-images.githubusercontent.com/63975446/232277969-c4fd1424-55ac-4005-8856-18ccbe57ba90.png)
+
 # Bounty Meter
 
 Bounty Meter is a command-line utility tool designed for bug bounty hunters to define their bounty target for a year, maintain and keep record of their bounties on a monthly basis, and track their progress throughout the year. With Bounty Meter, you can add and subtract bounties, view your total bounties earned this year, and display an interactive stats card to visualize your progress.
@@ -61,6 +63,9 @@ bm stats
 If you want to make the `bm stats` command your banner in the terminal, you can add the ```bm stats``` command to your `.bashrc` or `.zshrc` file.
 
 ## Screnshots
+![bmusage](https://user-images.githubusercontent.com/63975446/232277645-5c7f4d74-f1a5-4afc-b91d-1001108576db.png)
+![bmmonthly](https://user-images.githubusercontent.com/63975446/232277651-e35d6ed4-b555-49e0-a68c-766a15f450fa.png)
+![bmstatscard](https://user-images.githubusercontent.com/63975446/232277657-7d01f347-d39a-4406-9ad2-abba053c55b5.png)
 
 
 ## License
