@@ -10,7 +10,6 @@ Bounty Meter is a command-line utility tool designed for bug bounty hunters to d
 
 Bounty Meter is built using Bash scripting language and requires the following tools to be installed on your system:
 
-- Bash (4.0 or later)
 - sed (4.0 or later)
 - jq
 
