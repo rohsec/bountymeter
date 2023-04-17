@@ -61,6 +61,8 @@ bm stats
 
 If you want to make the `bm stats` command your banner in the terminal, you can add the ```bm stats``` command to your `.bashrc` or `.zshrc` file.
 
+### Note: For MacOS run 'brew install bash' and rerun the script in a new terminal.
+
 ## Screnshots
 ![bmusage](https://user-images.githubusercontent.com/63975446/232277645-5c7f4d74-f1a5-4afc-b91d-1001108576db.png)
 ![bmmonthly](https://user-images.githubusercontent.com/63975446/232277651-e35d6ed4-b555-49e0-a68c-766a15f450fa.png)
