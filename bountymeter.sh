@@ -198,7 +198,7 @@ printf '''    __                      __                       __
 /_.___/\____/\__,_/_/ /_/\__/\__, /_/ /_/ /_/\___/\__/\___/_/     
                             /____/                                                        
  '''
- printf "${green}==================== ${blue}Developed By: ${yellow}@hackinsec${bred} " 
+ printf "${green}==================== ${blue}Developed By: ${yellow}@rohsec${bred} " 
 
 # '''
 printf "${reset}"
