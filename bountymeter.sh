@@ -46,7 +46,7 @@ printf "\n$blue[$green + $blue]$bblue BountyMeter set up successfully...(✓)$re
 #                   Initialize Check Function           #
 #########################################################
 init_check(){
-    if [ -d $file ]
+    if [ -f $file ]
     then
     mkdir ~/.bountymeter && touch $file
     initt $1 $2
@@ -216,7 +216,7 @@ if [[ $# -gt 0 ]] ; then
 case $1 in
     init)
     if [[ $2 != "" ]] && [[ $2 == ?(-)+([0-9]) ]] && [[ $3 != "" ]]; then
-    init_check
+    init_check $2 $3
     else
     usage
     fi
