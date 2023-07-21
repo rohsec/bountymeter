@@ -18,7 +18,7 @@ Bounty Meter is built using Bash scripting language and requires the following t
 
 You can download and use the latest version of Bounty Meter by running the following command in your terminal:
 ```
-curl https://raw.githubusercontent.com/720922/bountymeter/master/bountymeter.sh -o bm && chmod +x bm && mv bm /usr/local/bin/
+curl https://raw.githubusercontent.com/rohsec/bountymeter/master/bountymeter.sh -o bm && chmod +x bm && mv bm /usr/local/bin/
 ```
 
 ### Usage
