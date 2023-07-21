@@ -46,7 +46,7 @@ printf "\n$blue[$green + $blue]$bblue BountyMeter set up successfully...(✓)$re
 #                   Initialize Check Function           #
 #########################################################
 init_check(){
-    if [ -f $file ]
+    if [ ! -f $file ]
     then
     mkdir ~/.bountymeter && touch $file
     initt $1 $2

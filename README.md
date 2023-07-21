@@ -12,6 +12,7 @@ Bounty Meter is built using Bash scripting language and requires the following t
 
 - sed (4.0 or later)
 - jq
+- bc
 
 ### Installation
 
